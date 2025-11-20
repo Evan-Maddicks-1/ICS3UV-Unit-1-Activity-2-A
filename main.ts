@@ -6,6 +6,6 @@
  */
 
 // print out the greeting
-console.log("Hello, World");
+console.log("Hello, World")
 
-console.log("\nDone.");
+console.log("\nDone.")
